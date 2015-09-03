@@ -833,6 +833,7 @@ file_free_out:
     free(file1);
     free(file2);
     free(file3);
+    free(file4);
 data_free_out:
     free(data);
 loading_free_out:
